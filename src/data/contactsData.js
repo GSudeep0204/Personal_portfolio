@@ -1,6 +1,6 @@
 export const contactsData = {
-  email: "kurubasugappa@gmail.com",
-  phone: "+91 9652803979",
+  email: "gudekotasudeep@gmail.com",
+  phone: "+91 8096554332",
   address: "Anantapur, Andhra Pradesh",
 
   sheetAPI:

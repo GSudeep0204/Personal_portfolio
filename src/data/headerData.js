@@ -1,8 +1,8 @@
-import resume from "../assets/pdf/sugappa_kuruba_resume.pdf";
-import profileImg from "../assets/png/profileImg.jpg";
+import resume from "../assets/pdf/gudekota_sudeep_resume.pdf.png";
+import profileImg from "../assets/png/Profile_pic_sudeep.JPG";
 
 export const headerData = {
-  name: "Sugappa Kuruba",
+  name: "Sudeep Gudekota",
   title: "Web Developer",
   desciption:
     "Feet on the ground, eyes at the sky, never stop dreaming, never till you die.",

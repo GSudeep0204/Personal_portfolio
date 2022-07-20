@@ -1,7 +1,7 @@
 export const socialsData = {
-  github: "https://github.com/sugappa55",
+  github: "https://github.com/Gsudeep0204",
   // facebook: 'https://www.facebook.com/',
-  linkedIn: "https://www.linkedin.com/in/sugappa-kuruba-9813111b7/",
+  linkedIn: "https://www.linkedin.com/in/sudeep-gudeokta-335b9021a/",
   // instagram: 'https://www.instagram.com/renu.kote',
   // codepen: 'https://codepen.io/',
   // twitter: 'https://twitter.com/KoteRenu',

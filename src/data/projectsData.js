@@ -11,16 +11,16 @@
 export const projectsData = [
   {
     id: 1,
-    projectName: "Crypto Tracking App",
+    projectName: "SpecsMakers",
     projectDesc: [
       `A cryptocurrency  tracker is a website,that allows you to keep track of how the value of coins are changing.`,
       [
-        "Google authentication with help of firebase",
+        "SignIn/SignUp",
         "Responsive Web pages",
         "Major bug fixes",
       ],
     ],
-    tags: ["React", "materialui", "firebase"],
+    tags: ["Html", "Css", "Javascript"],
     code: "https://github.com/sugappa55/Crypto-Tracker",
     demo: "https://crypto-tracker-vert.vercel.app/",
     image:
